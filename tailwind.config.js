@@ -13,7 +13,7 @@ module.exports = {
         mono: ['var(--font-geist-mono)'],
       },
       colors: {
-        primary: '#0F2C21',
+        primary: '#FF4785',
         secondary: '#1A8F7B',
         'gray-200': '#EAECF0',
         'gray-300': '#D0D5DD',
